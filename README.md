@@ -11,7 +11,7 @@ Using Git and Build Package
 To using latest update of the library, you can clone then build python package manually. Using this method require setuptools and wheel module.
 
 
-It supports Python 3 or newer and PyPi. https://pypi.org/project/pyLoRa/
+
 
 ## Easy setup on Raspberry Pi:
 ```bash
